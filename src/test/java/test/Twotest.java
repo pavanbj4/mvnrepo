@@ -17,7 +17,13 @@ public class Twotest extends Base{
 		
 	
 		driver.get("http://omayo.blogspot.com/");
-	}
+	
+
+
+System.out.println("syso is modifed and this is first modify");
+
+
+  }
 	
 	
    
