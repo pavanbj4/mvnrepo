@@ -22,7 +22,7 @@ public class Twotest extends Base{
 
 System.out.println("syso is modifed and this is first modify");
 
-
+System.out.println("syso is modifed and this is second modify");
   }
 	
 	
